@@ -1,39 +1,31 @@
 # George (Gurgen) Abrahamyants
 
-Compliance, contracts, procurement, regulatory operations, and AI-assisted legal workflows.  
-JD-trained with experience across SALT controversy, audit defense, vendor management, SOP design, and regulated operations.  
-I focus on turning complex legal/operational work into clear, fast, defensible systems — with or without AI.
+I have no programming background. JD, ten years in contracts, compliance, and state tax.
+
+I started using AI for real work and noticed it kept failing in ways that weren't my fault — confident outputs that didn't survive verification, drift that got worse with clearer instructions, apology loops that repeated the same error. So I documented the patterns, tested what actually fixes them, and built protocols for anyone using these systems where mistakes have consequences.
 
 ---
 
-## Identity & Websites
+## What I Actually Do
 
-To keep search results clean and consistent, I maintain two public identity anchors:
-
-### **Primary professional site**
-https://www.georgeabrahamyants.com  
-Full profile: contracts, compliance, regulatory operations, vendor risk, and AI-assisted workflows.
-
-### **Alternate identity anchor (Gurgen)**
-https://www.gurgenabrahamyants.com  
-Supports searches using “Gurgen” instead of “George.”
-
-Both domains point to me and are intentionally cross-linked with LinkedIn.
+- Catch AI mid-drift and force it back on track
+- Run high-stakes questions through multiple models and triangulate
+- Read the reasoning trace, not the polished answer
+- Build validation workflows where the AI that wrote it can't audit it
 
 ---
 
-## LinkedIn
-https://www.linkedin.com/in/george-abrahamyan
+## Background
+
+- **JD** (UC Hastings), tax concentration
+- **10 years:** contracts, compliance, SALT, audit defense
+- **Former:** Andersen, regulated cannabis ops, IRS Office of Chief Counsel
+- Refugee. OCD. The combination makes me good at spotting errors and not letting them slide.
 
 ---
 
-## What I Work On
+## Links
 
-- AI-assisted legal and compliance workflows  
-- Structured reasoning + audit-trail systems  
-- Contract and clause analysis  
-- Figma/UX compliance review  
-- SOP design for regulated operations  
-- Practical experiments connecting legal judgment with modern AI models
-
-All projects aim to be simple, inspectable, and usable by professionals who are not engineers.
+- [LinkedIn](https://www.linkedin.com/in/george-abrahamyan)
+- [georgeabrahamyants.com](https://www.georgeabrahamyants.com)
+- [gurgenabrahamyants.com](https://www.gurgenabrahamyants.com) *(alternate name search)*
