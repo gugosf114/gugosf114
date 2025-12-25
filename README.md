@@ -20,7 +20,7 @@ I started using AI for real work and noticed it kept failing in ways that weren'
 - **JD** (UC Hastings), tax concentration
 - **10 years:** contracts, compliance, SALT, audit defense
 - **Former:** Andersen, regulated cannabis ops, IRS Office of Chief Counsel
-- Refugee. OCD. The combination makes me good at spotting errors and not letting them slide.
+- Grew up where you learn not to trust official stories. Can't leave an error alone.
 
 ---
 
