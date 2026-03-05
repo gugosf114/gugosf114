@@ -1,4 +1,4 @@
-# George (Gurgen) Abrahamyants
+# George Abrahamyants
 
 I have no programming background. JD, ten years in contracts, compliance, and state tax.
 
@@ -24,8 +24,14 @@ I started using AI for real work and noticed it kept failing in ways that weren'
 
 ---
 
+## Research
+
+- **[drift-auditor](https://github.com/gugosf114/drift-auditor)** — 512 real AI conversations, 37K messages, 10-tag taxonomy. Measures the human cost of making a model behave (Operator Load Index). Directly addresses the multi-turn drift gap Anthropic flagged in January 2026.
+
+---
+
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/george-abrahamyan)
+- [LinkedIn](https://www.linkedin.com/in/george-abrahamyants)
 - [georgeabrahamyants.com](https://www.georgeabrahamyants.com)
 - [gurgenabrahamyants.com](https://www.gurgenabrahamyants.com) *(alternate name search)*
